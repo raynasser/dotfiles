@@ -66,5 +66,5 @@
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
 [user]
-	email = 
-	name = ray.nasser@outlook.com
+	email = ray.nasser@outlook.com
+	name = ra
